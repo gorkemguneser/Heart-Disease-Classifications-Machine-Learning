@@ -10,4 +10,4 @@ Table of Contents
 <li>Data Wrangling and Feature Scaling</li>
 <li>Predictive Machine Learning Models Implications</li>
 <li>Hyperparameter Tunings</li>
-<li>Conclusions</li>
+<li>Conclusion</li>
