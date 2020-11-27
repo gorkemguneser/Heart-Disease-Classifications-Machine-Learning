@@ -5,9 +5,9 @@ This predictive classification analysis will try to predict whether a person has
 Table of contents is shared below for understanding the flow of the project;
 
 Table of Contents
-<l>1- Importing Dataset
-2- Data Exploration & Visualization
-3- Data Wrangling and Feature Scaling
-4- Predictive Machine Learning Models Implications
-5- Hyperparameter Tunings
-6- Conclusion </l>
+
+<li>Data Exploration & Visualization </li>
+<li>Data Wrangling and Feature Scaling</li>
+<li>Predictive Machine Learning Models Implications</li>
+<li>Hyperparameter Tunings</li>
+<li>Conclusions</li>
