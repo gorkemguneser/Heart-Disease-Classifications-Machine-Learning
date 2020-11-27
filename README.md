@@ -11,3 +11,7 @@ Table of Contents
 <li>Predictive Machine Learning Models Implications</li>
 <li>Hyperparameter Tunings</li>
 <li>Conclusion</li>
+
+### Links
+<b> Presentation </b>: [Here](https://docs.google.com/presentation/d/1pH5LVQ_9YgeSH30Z-2zauJvv2lg1qeyIqpWKjg9I6xk/edit#slide=id.gad2965afc9_1_5)</br>
+<b> GitHub </b>: [Link](https://github.com/gorkemguneser/Youtube-Trending-Videos-Statistical-Analysis)</br>
