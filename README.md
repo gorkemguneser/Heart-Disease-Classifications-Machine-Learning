@@ -1,4 +1,4 @@
-# Heart-Disease-Classifications-Machine-Learning-
+# Heart-Disease-Classifications-Machine-Learning
 
 This predictive classification analysis will try to predict whether a person has a heart disease or not based on 14 different features, where 8 of them are categorical features and the rest is numerical.
 
